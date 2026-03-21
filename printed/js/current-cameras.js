@@ -1,12 +1,23 @@
 var currentcameras = [
   {
+    "maker": "Teodor Prešl",
+    "name": "35mm Pinhole Panoramic",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a 35mm focal length, producing a 65x24mm panoramic image",
+    "launched": 2026,
+    "printfiles": "https://www.printables.com/model/1589133-35mm-pinhole-panoramic-camera",
+    "image": "35mm-pinhole-panoramic.png"
+  },
+  {
     "maker": "Quentin Orhant",
     "name": "3D Printed Pinhole",
     "format": "135",
     "type": "pinhole",
     "price": 0,
     "description": "a 35mm pinhole camera with a built-in shutter",
-    "website": "https://quentino.io/3d-printed-pinhole",
+    "website": "https://quentino.io/posts/3d-printed-pinhole",
     "launched": 2014,
     "printfiles": "https://www.thingiverse.com/thing:531244",
     "image": "3d-printed-pinhole.png"
@@ -21,6 +32,17 @@ var currentcameras = [
     "launched": 2019,
     "printfiles": "https://www.printables.com/model/16309-4x5-camera-for-75mm-lens-and-fotoman-helical-focus",
     "image": "4x5-camera.png"
+  },
+  {
+    "maker": "Alejandro Soberon",
+    "name": "4x5 Pinhole Camera",
+    "format": "4x5",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 4x5\" pinhole camera",
+    "launched": 2015,
+    "printfiles": "https://www.thingiverse.com/thing:723339",
+    "image": "4-5-pinhole-camera.png"
   },
   {
     "maker": "Morten Kolve",
@@ -151,6 +173,17 @@ var currentcameras = [
     "image": "easy-35.png"
   },
   {
+    "maker": "Bob Keifer",
+    "name": "Easy Open",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a built-in shutter",
+    "launched": 2024,
+    "printfiles": "https://www.thingiverse.com/thing:6826312",
+    "image": "easy-open.png"
+  },
+  {
     "maker": "Evan Butson",
     "name": "EB 617 MK II",
     "format": "4x5",
@@ -199,6 +232,17 @@ var currentcameras = [
     "image": "fat-shot-617.png"
   },
   {
+    "maker": "Vasiliy Ovsyankin",
+    "name": "Fat Shot X",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a multiformat (6x17, 6x14, 6x12, 6x9 and 6x6) camera for large format lenses, a remake of the Fat Shot 617",
+    "launched": 2026,
+    "printfiles": "https://www.printables.com/model/1574680-fat-shot-x-multiformat-6x17-6x14-6x12-6x9-and-6x6",
+    "image": "fat-shot-x.png"
+  },
+  {
     "maker": "Rayfor Loy",
     "name": "FCO66",
     "format": "120",
@@ -213,7 +257,7 @@ var currentcameras = [
     "maker": "Jackson Bohm",
     "name": "Film Camera",
     "format": "135",
-    "type": "nikon f lens",
+    "type": "full frame lens",
     "price": 0,
     "description": "a 35mm camera for Nikon F lenses with a built-in shutter",
     "launched": 2022,
@@ -309,7 +353,7 @@ var currentcameras = [
     "maker": "Josh Gladstone",
     "name": "Jankstax One",
     "format": "mini",
-    "type": "glass lens",
+    "type": "custom lens",
     "price": 0,
     "description": "an Instax mini camera with a 100mm focal length and a built-in shutter",
     "video": "https://www.youtube.com/watch?v=n-TAC5FUcVg",
@@ -393,13 +437,35 @@ var currentcameras = [
     "maker": "Kevin Kadooka",
     "name": "Lux",
     "format": "120",
-    "type": "glass lens",
+    "type": "custom lens",
     "price": 0,
     "description": "a 6x6 camera with a 65mm focal length and a built-in electronically controlled shutter",
     "website": "https://www.flickr.com/photos/frostedbutts/albums/72157638372089455/",
     "launched": 2014,
     "printfiles": "https://www.thingiverse.com/thing:1657138",
     "image": "lux.png"
+  },
+  {
+    "maker": "Bogdan Panassyuk",
+    "name": "Mamiya RB67 Pinhole",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a medium format pinhole camera, compatible with all common Mamiya RB backs",
+    "launched": 2026,
+    "printfiles": "https://www.printables.com/model/1554467-mamiya-rb67-pinhole-camera-for-6x7-6x8-film-back-h",
+    "image": "mamiya-rb67-pinhole.png"
+  },
+  {
+    "maker": "Javier Doroteo",
+    "name": "Medium Format Camera Version 1",
+    "format": "120",
+    "type": "mamiya press lens",
+    "price": 0,
+    "description": "a 6x6 camera with an integrated film back",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/230230-medium-format-camera-for-mamiya-press-lenses",
+    "image": "medium-format-camera-version-1.png"
   },
   {
     "maker": "Javier Doroteo",
@@ -426,17 +492,40 @@ var currentcameras = [
     "image": "medium-format-camera-version-3.png"
   },
   {
+    "maker": "Dragan Bojovic",
+    "name": "miluka Zone Compact 678",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x7 and 6x8 camera for large format lenses and Mamiya RB backs",
+    "website": "https://github.com/Draganito/miluka-compact-6x8",
+    "launched": 2025,
+    "printfiles": "https://www.thingiverse.com/thing:7235060",
+    "image": "miluka-zone-compact-678.png"
+  },
+  {
     "maker": "Albert Cornelissen",
-    "name": "MRF",
+    "name": "MRF2",
     "format": "120",
     "type": "mamiya press lens",
     "price": 0,
-    "description": "a camera for 6x7, 6x6, 6x4.5 or 35mm panorama images with a LiDAR-powered rangefinder",
-    "website": "https://github.com/acornelissen/IDENTIDEM.design-MRF",
-    "video": "https://www.instagram.com/p/C63eiv-o6UP",
-    "launched": 2024,
-    "printfiles": "https://www.printables.com/model/881863-mrf-a-lidar-powered-lens-coupled-medium-format-fil",
-    "image": "mrf.png"
+    "description": "a multiformat (6x7, 6x6, 6x4.5 or 35mm panorama images) camera with a LiDAR-powered rangefinder",
+    "website": "https://identidem.design/",
+    "video": "https://www.youtube.com/watch?v=_sIWXoqOFIU",
+    "launched": 2025,
+    "printfiles": "https://github.com/acornelissen/IDENTIDEM.design-MRF2",
+    "image": "mrf2.png"
+  },
+  {
+    "maker": "Marek Sokal",
+    "name": "Not a Smena 8m - Rev 3",
+    "format": "135",
+    "type": "full frame lens",
+    "price": 0,
+    "description": "a 35mm camera for a Lomo T-43 lens with masks for different formats that can be changed mid-roll",
+    "launched": 2026,
+    "printfiles": "https://makerworld.com/en/models/2507483-not-a-smena-8m-rev-3-35mm-camera-project",
+    "image": "not-a-smena-8m.png"
   },
   {
     "maker": "Ryan Oh",
@@ -474,6 +563,17 @@ var currentcameras = [
     "image": "one-piece-4x5-large-format-snap-shot-camera.png"
   },
   {
+    "maker": "Mike Chu",
+    "name": "Open645",
+    "format": "120",
+    "type": "medium format lens",
+    "price": 0,
+    "description": "a 6x4.5 camera for Mamiya TLR lenses",
+    "launched": 2026,
+    "printfiles": "https://makerworld.com/en/models/2475161-open645-medium-format-camera",
+    "image": "open645.png"
+  },
+  {
     "maker": "Jørgen Kløvstad",
     "name": "Open 4x5 Rail Camera",
     "format": "4x5",
@@ -499,7 +599,7 @@ var currentcameras = [
     "maker": "Leo Marius",
     "name": "Open Reflex",
     "format": "135",
-    "type": "nikon f lens",
+    "type": "full frame lens",
     "price": 0,
     "description": "a 35mm SLR camera for Nikon F lenses with a built-in shutter",
     "website": "https://www.instructables.com/3D-Printed-Camera-OpenReflex/",
@@ -580,7 +680,7 @@ var currentcameras = [
     "maker": "Javier Fernandez",
     "name": "Panoramic Camera",
     "format": "135",
-    "type": "plastic lens",
+    "type": "custom lens",
     "price": 0,
     "description": "a 35mm camera with a plastic lens from a polaroid camera, producing a 72x24mm panoramic image",
     "launched": 2020,
@@ -598,6 +698,17 @@ var currentcameras = [
     "launched": 2020,
     "printfiles": "https://www.printables.com/model/168683-pica135-a-pinhole-camera-with-shift-capabilities",
     "image": "pica-135.png"
+  },
+  {
+    "maker": "Todd Schlemmer",
+    "name": "PINHE4D / P4",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with either a 22.5mm, 34mm, or 50mm focal length and a built-in shutter",
+    "launched": 2013,
+    "printfiles": "https://www.thingiverse.com/thing:132517",
+    "image": "pinhe4d.png"
   },
   {
     "maker": "Todd Schlemmer",
@@ -636,13 +747,24 @@ var currentcameras = [
     "maker": "Mark Hiltz",
     "name": "Pioneer",
     "format": "120",
-    "type": "glass lens",
+    "type": "custom lens",
     "price": 0,
     "description": "a 6x6 camera with a 60mm focal length and a built-in shutter",
     "website": "https://www.instagram.com/pioneer_camera/",
     "launched": 2025,
     "printfiles": "https://drive.google.com/drive/folders/1HPYxniFw3XWP9GWbdEW4byyxlQdUplFb",
     "image": "pioneer.png"
+  },
+  {
+    "maker": "Seth Allgire",
+    "name": "Planetary Pinhole",
+    "format": "4x5",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 4x5\" pinhole camera with a 72mm focal length and a built-in shutter",
+    "launched": 2026,
+    "printfiles": "https://www.thingiverse.com/thing:7305319",
+    "image": "planetary-pinhole.png"
   },
   {
     "maker": "Albert Cornelissen",
@@ -656,6 +778,17 @@ var currentcameras = [
     "image": "pola-slr1.png"
   },
   {
+    "maker": "Anders Blomqvist",
+    "name": "PraktiPan",
+    "format": "135",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 35mm camera, converted from a Praktica B camera, producing a 65x24mm panoramic image",
+    "launched": 2021,
+    "printfiles": "https://www.printables.com/model/168681-praktipan-24x65mm-xpan-conversion-of-a-praktica-b",
+    "image": "praktipan.png"
+  },
+  {
     "maker": "Yoni De Beule",
     "name": "Rapax Camera",
     "format": "135",
@@ -665,6 +798,17 @@ var currentcameras = [
     "launched": 2015,
     "printfiles": "https://www.thingiverse.com/thing:705782",
     "image": "rapax.png"
+  },
+  {
+    "maker": "Robert Milchling",
+    "name": "RBPan",
+    "format": "135",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 35mm camera for a large format lens and a Mamiya RB67 Pro-SD back, producing a 70x24mm panoramic image",
+    "launched": 2025,
+    "printfiles": "https://makerworld.com/en/models/1761194-rbpan-35mm-panoramic-camera",
+    "image": "rbpan.png"
   },
   {
     "maker": "Dora Goodman",
@@ -706,7 +850,7 @@ var currentcameras = [
     "maker": "Amos Dudley",
     "name": "SLO",
     "format": "135",
-    "type": "printed lens",
+    "type": "custom lens",
     "price": 0,
     "description": "a 35mm camera that can be fully printed with a resin printer (including the lens)",
     "website": "https://amosdudley.com/weblog/SLO-Camera",
@@ -733,7 +877,7 @@ var currentcameras = [
     "type": "pinhole",
     "price": 0,
     "description": "a parametric medium format pinhole camera with a built-in shutter",
-    "website": "https://quentino.io/stenope-parametrique",
+    "website": "https://quentino.io/posts/stenope-parametrique",
     "launched": 2016,
     "printfiles": "https://www.thingiverse.com/thing:1769993",
     "image": "stenope-parametrique.png"
