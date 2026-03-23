@@ -112,6 +112,17 @@ var currentcameras = [
     "image": "big-wide.png"
   },
   {
+    "maker": "Connor Hutson",
+    "name": "C-PAN",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x12 camera for large format lenses",
+    "launched": 2018,
+    "printfiles": "https://www.thingiverse.com/thing:2852935",
+    "image": "c-pan.png"
+  },
+  {
     "maker": "Ethan Moses",
     "name": "Cameradactyl Brancopan",
     "format": "135",
@@ -335,6 +346,17 @@ var currentcameras = [
     "launched": 2019,
     "printfiles": "https://drive.google.com/drive/folders/1uPFNM-4rCeAAwdD-yL9Mr0cwltU40PPg",
     "image": "goodman-zone.png"
+  },
+  {
+    "maker": "Anders Blomqvist",
+    "name": "Hasselblad Film Magazine Mount",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 6x6 or 6x4.5 pinhole camera for Hasselblad C12 or C16 film backs",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/247783-hasselblad-film-magazine-mount-pinhole-camera-matt",
+    "image": "hasselblad-film-magazine-mount.png"
   },
   {
     "maker": "Denis Aminev",
@@ -811,6 +833,17 @@ var currentcameras = [
     "image": "rbpan.png"
   },
   {
+    "maker": "Edgar Kech",
+    "name": "Scalable Field Camera",
+    "format": ["4x5", "5x7"],
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 4x5\" or 5x7\" camera for large format lenses",
+    "launched": 2020,
+    "printfiles": "https://github.com/edgarkech/scalable_field_camera",
+    "image": "scalable-field-camera.png"
+  },
+  {
     "maker": "Dora Goodman",
     "name": "SCURA 35mm",
     "format": "135",
@@ -1057,6 +1090,17 @@ var currentcameras = [
     "launched": 2016,
     "printfiles": "https://www.thingiverse.com/thing:1253008",
     "image": "terrapin-prime.png"
+  },
+  {
+    "maker": "Carlos Paboudjian",
+    "name": "Tichý 3DP1",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a built-in shutter",
+    "launched": 2025,
+    "printfiles": "https://makerworld.com/en/models/1980627-tichy-3dp1-pinhole-camera",
+    "image": "tichy-3dp1.png"
   },
   {
     "maker": "Oscar Oweson",

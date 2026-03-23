@@ -85,7 +85,7 @@
           </p>
           <aside>
             <div title="lens type">{{camera.type instanceof Array ? camera.type[0] : camera.type}}</div>
-            <div title="film format">{{camera.format}}</div>
+            <div title="film format">{{camera.format instanceof Array ? camera.format[0] : camera.format}}</div>
             <div title="camera launched" v-if="camera.launched">{{camera.launched}}</div>
             <div title="price range">{{formatPrice(camera.price)}}</div>
           </aside>
@@ -103,8 +103,8 @@
       </ul>
     </main>
   </div>
-  <script src="js/current-cameras.js?d=20260321"></script>
+  <script src="js/current-cameras.js?d=20260324"></script>
   <script src="js/vue.global.prod.js"></script>
-  <script src="js/script-index.js?d=20260321"></script>
+  <script src="js/script-index.js?d=20260324"></script>
 </body>
 </html>

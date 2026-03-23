@@ -31,7 +31,7 @@ Vue.createApp({
         return this.searchedcameras;
       } else if(type === 'all' && format !== 'all') {
         return this.searchedcameras.filter(function (camera) {
-          return format === camera.format;
+          return format === camera.format || camera.format.includes(format);
         });
       } else if(this.type !== 'all' && this.format === 'all') {
         return this.searchedcameras.filter(function (camera) {
@@ -39,7 +39,7 @@ Vue.createApp({
         });
       } else {
         return this.searchedcameras.filter(function (camera) {
-          return (type === camera.type || camera.type.includes(type)) && format === camera.format;
+          return (type === camera.type || camera.type.includes(type)) && (format === camera.format || camera.format.includes(format));
         });
       }
     },
