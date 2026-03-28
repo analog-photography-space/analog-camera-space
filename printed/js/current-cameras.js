@@ -444,6 +444,17 @@ var currentcameras = [
     "image": "ligerolg.png"
   },
   {
+    "maker": "Giuseppe Spataro",
+    "name": "Lite45",
+    "format": "4x5",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 4x5\" camera for large format lenses",
+    "launched": 2025,
+    "printfiles": "https://www.printables.com/model/1418504-lite45-a-parametric-model-for-an-easy-4x5-camera",
+    "image": "lite45.png"
+  },
+  {
     "maker": "Albert Cornelissen",
     "name": "LRF45",
     "format": "4x5",
@@ -524,6 +535,17 @@ var currentcameras = [
     "launched": 2025,
     "printfiles": "https://www.thingiverse.com/thing:7235060",
     "image": "miluka-zone-compact-678.png"
+  },
+  {
+    "maker": "David Matuszek",
+    "name": "Model A1C",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 6x6 pinhole camera with a built-in shutter",
+    "launched": 2025,
+    "printfiles": "https://www.printables.com/model/1382134-model-a1c-pinhole-camera",
+    "image": "model-a1c.png"
   },
   {
     "maker": "Albert Cornelissen",
@@ -722,6 +744,17 @@ var currentcameras = [
     "image": "pica-135.png"
   },
   {
+    "maker": "",
+    "name": "Pin Hole Camera",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a 50mm focal length and a built-in shutter",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/245227-fully-3d-printed-pin-hole-camera",
+    "image": "pin-hole-camera.png"
+  },
+  {
     "maker": "Todd Schlemmer",
     "name": "PINHE4D / P4",
     "format": "135",
@@ -764,6 +797,29 @@ var currentcameras = [
     "launched": 2020,
     "printfiles": "https://www.myminifactory.com/object/3d-print-pinhole-camera-115726",
     "image": "pinhole-camera.png"
+  },
+  {
+    "maker": "Columb",
+    "name": "Pinhole Camera 4x5\"",
+    "format": "4x5",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 4x5\" pinhole camera",
+    "launched": 2025,
+    "printfiles": "https://www.printables.com/model/909360-pinhole-camera-4x5",
+    "image": "pinhole-camera-4x5.png"
+  },
+  {
+    "maker": "Trevor",
+    "name": "Pinhole Camera 5x7\"",
+    "format": "5x7",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 5x7\" pinhole camera with a built-in shutter",
+    "video": "https://www.youtube.com/watch?v=zeK26MS8F-E",
+    "launched": 2025,
+    "printfiles": "https://www.printables.com/model/1207826-pinhole-camera",
+    "image": "pinhole-camera-5x7.png"
   },
   {
     "maker": "Mark Hiltz",
@@ -890,6 +946,40 @@ var currentcameras = [
     "launched": 2016,
     "printfiles": "https://pinshape.com/items/25871-3d-printed-slo-printed-lens-camera",
     "image": "slo.png"
+  },
+  {
+    "maker": "Mitch Swan",
+    "name": "Solargraph Camera",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using photographic paper, designed for solargraphy",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/230874-solargraph-camera",
+    "image": "solargraph-camera.png"
+  },
+  {
+    "maker": "Maciek",
+    "name": "Solarigraphy Box",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using photographic paper, designed for solargraphy",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/223554-solarigraphy-solargraph-camera-pinhole-box",
+    "image": "solarigraphy-box.png"
+  },
+  {
+    "maker": "Adam Marszał",
+    "name": "Solarigraphy Camera",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using photographic paper, designed for solargraphy",
+    "video": "https://www.youtube.com/watch?v=AbdyzkgA2RY",
+    "launched": 2022,
+    "printfiles": "https://www.printables.com/model/250933-solarigraphy-camera",
+    "image": "solarigraphy-camera.png"
   },
   {
     "maker": "Drew Nikonowicz",
