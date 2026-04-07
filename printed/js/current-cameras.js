@@ -137,6 +137,17 @@ var currentcameras = [
   },
   {
     "maker": "Ethan Moses",
+    "name": "Cameradactyl Homonculus 69",
+    "format": "120",
+    "type": "mamiya press lens",
+    "price": 1,
+    "description": "a multiformat (6x4.5, 6x6, 6x7 or 6x9) camera for Mamiya Press lenses and Graflex or Mamiya RB67 backs",
+    "launched": 2019,
+    "printfiles": "https://www.cameradactyl.com/buttergrip/p/homonculus69stl",
+    "image": "cameradactyl-homonculus-69.png"
+  },
+  {
+    "maker": "Ethan Moses",
     "name": "Cameradactyl Pinholio",
     "format": "custom",
     "type": "pinhole",
@@ -248,7 +259,7 @@ var currentcameras = [
     "format": "120",
     "type": "large format lens",
     "price": 0,
-    "description": "a multiformat (6x17, 6x14, 6x12, 6x9 and 6x6) camera for large format lenses, a remake of the Fat Shot 617",
+    "description": "a multiformat (6x6, 6x9, 6x12, 6x14 or 6x17) camera for large format lenses, a remake of the Fat Shot 617",
     "launched": 2026,
     "printfiles": "https://www.printables.com/model/1574680-fat-shot-x-multiformat-6x17-6x14-6x12-6x9-and-6x6",
     "image": "fat-shot-x.png"
@@ -357,6 +368,39 @@ var currentcameras = [
     "launched": 2022,
     "printfiles": "https://www.printables.com/model/247783-hasselblad-film-magazine-mount-pinhole-camera-matt",
     "image": "hasselblad-film-magazine-mount.png"
+  },
+  {
+    "maker": "Oscar Oweson",
+    "name": "Holmium V1",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x7 rangefinder camera for large format lenses",
+    "launched": 2018,
+    "printfiles": "https://www.panomicron.com/holmium-1",
+    "image": "holmium-v1.png"
+  },
+  {
+    "maker": "Oscar Oweson",
+    "name": "Holmium V2",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x7 rangefinder camera for large format lenses",
+    "launched": 2020,
+    "printfiles": "https://www.panomicron.com/holmium-v2",
+    "image": "holmium-v2.png"
+  },
+  {
+    "maker": "Oscar Oweson",
+    "name": "Holmium V3",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x7 rangefinder camera for large format lenses",
+    "launched": 2023,
+    "printfiles": "https://www.panomicron.com/holmium-v3",
+    "image": "holmium-v3.png"
   },
   {
     "maker": "Denis Aminev",
@@ -479,15 +523,38 @@ var currentcameras = [
     "image": "lux.png"
   },
   {
+    "maker": "Ethan Moses",
+    "name": "Magazine Mounting Flange",
+    "format": "120",
+    "type": "pinhole",
+    "price": 1,
+    "description": "a medium format pinhole camera with a 45mm focal length for Graflex 23 or Mamiya RB67 backs",
+    "launched": 2019,
+    "printfiles": "https://www.cameradactyl.com/buttergrip/p/rbpinholestl",
+    "image": "magazine-mounting-flange.png"
+  },
+  {
     "maker": "Bogdan Panassyuk",
     "name": "Mamiya RB67 Pinhole",
     "format": "120",
     "type": "pinhole",
     "price": 0,
-    "description": "a medium format pinhole camera, compatible with all common Mamiya RB backs",
+    "description": "a medium format pinhole camera with a built-in shutter for Mamiya RB67 backs",
     "launched": 2026,
     "printfiles": "https://www.printables.com/model/1554467-mamiya-rb67-pinhole-camera-for-6x7-6x8-film-back-h",
     "image": "mamiya-rb67-pinhole.png"
+  },
+  {
+    "maker": "Ethan Moses",
+    "name": "Master System Modular 4x5 Camera",
+    "format": "4x5",
+    "type": "large format lens",
+    "price": 2,
+    "description": "a 4x5\" camera for large format lenses, using 4\" rolls of RA-4 photographic paper",
+    "video": "https://www.youtube.com/watch?v=SjOBpT6tksY",
+    "launched": 2025,
+    "printfiles": "https://www.cameradactyl.com/mastersystem/p/mastersystemcamera",
+    "image": "master-system-modular-4x5-camera.png"
   },
   {
     "maker": "Javier Doroteo",
@@ -553,7 +620,7 @@ var currentcameras = [
     "format": "120",
     "type": "mamiya press lens",
     "price": 0,
-    "description": "a multiformat (6x7, 6x6, 6x4.5 or 35mm panorama images) camera with a LiDAR-powered rangefinder",
+    "description": "a multiformat (6x4.5, 6x6, 6x7 or 35mm panorama images) camera with a LiDAR-powered rangefinder",
     "website": "https://identidem.design/",
     "video": "https://www.youtube.com/watch?v=_sIWXoqOFIU",
     "launched": 2025,
@@ -670,7 +737,7 @@ var currentcameras = [
     "price": 0,
     "description": "a 35mm camera, producing a 65x24mm panoramic image",
     "website": "https://www.panomicron.com/oxygen-1",
-    "launched": 2020,
+    "launched": 2018,
     "printfiles": "https://github.com/Panomicron/Oxygen",
     "image": "oxygen.png"
   },
@@ -820,6 +887,17 @@ var currentcameras = [
     "launched": 2025,
     "printfiles": "https://www.printables.com/model/1207826-pinhole-camera",
     "image": "pinhole-camera-5x7.png"
+  },
+  {
+    "maker": "Marek Sokal",
+    "name": "Pinhole Camera with Frame Masks",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera",
+    "launched": 2026,
+    "printfiles": "https://makerworld.com/en/models/2580485-pinhole-camera-with-frame-masks",
+    "image": "pinhole-camera-with-frame-masks.png"
   },
   {
     "maker": "Mark Hiltz",
