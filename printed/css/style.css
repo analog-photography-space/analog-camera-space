@@ -209,6 +209,7 @@ li {
   position: relative;
   background: #fff;
   text-align: center;
+  text-wrap-style: balance;
 }
 
 #faq li {
