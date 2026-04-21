@@ -359,6 +359,19 @@ var currentcameras = [
     "image": "goodman-zone.png"
   },
   {
+    "maker": "Dora Goodman",
+    "name": "Goodman Zone 6x12",
+    "format": "120",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 6x12 camera for large format lenses",
+    "website": "https://doragoodman.com/goodlab-project/goodman-zone-medium-format-film-camera/",
+    "video": "https://www.youtube.com/watch?v=w0kj6_Nw3H8",
+    "launched": 2021,
+    "printfiles": "https://drive.google.com/drive/folders/1goX5LMEy2qz8ay6glFNI4sqNXlut94rA",
+    "image": "goodman-zone-6x12.png"
+  },
+  {
     "maker": "Anders Blomqvist",
     "name": "Hasselblad Film Magazine Mount",
     "format": "120",
@@ -626,6 +639,19 @@ var currentcameras = [
     "launched": 2025,
     "printfiles": "https://github.com/acornelissen/IDENTIDEM.design-MRF2",
     "image": "mrf2.png"
+  },
+  {
+    "maker": "Mario Machon",
+    "name": "NanoPano",
+    "format": "120",
+    "type": ["mamiya press lens", "large format lens"],
+    "price": 1,
+    "description": "a half-frame medium format camera for Mamiya Press or large format lenses, producing a 56x24mm panoramic image",
+    "website": "https://nanopano.sprkplg.com/",
+    "video": "https://www.youtube.com/watch?v=hYp1Ut__IXo",
+    "launched": 2022,
+    "printfiles": "https://www.patreon.com/posts/nano-pano-files-82317221",
+    "image": "nanopano.png"
   },
   {
     "maker": "Marek Sokal",
