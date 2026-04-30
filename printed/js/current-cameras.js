@@ -112,6 +112,18 @@ var currentcameras = [
     "image": "big-wide.png"
   },
   {
+    "maker": "Viktor Falendysh",
+    "name": "BlackRiver",
+    "format": "4x5",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 4x5\" camera for large format lenses",
+    "website": "https://photos.app.goo.gl/2sKqeYWhB5nqSPrE2",
+    "launched": 2017,
+    "printfiles": "https://www.thingiverse.com/thing:2371456",
+    "image": "blackriver.png"
+  },
+  {
     "maker": "Connor Hutson",
     "name": "C-PAN",
     "format": "120",
@@ -169,6 +181,18 @@ var currentcameras = [
     "launched": 2021,
     "printfiles": "https://github.com/Panomicron/Chromium",
     "image": "chromium.png"
+  },
+  {
+    "maker": "Jim Sturges",
+    "name": "Domino 4.5",
+    "format": "4x5",
+    "type": "large format lens",
+    "price": 0,
+    "description": "a 4x5\" camera for large format lenses",
+    "website": "https://www.facebook.com/people/Domino-Printed-Cameras/61553801438143/",
+    "launched": 2024,
+    "printfiles": "https://www.thingiverse.com/thing:6475582",
+    "image": "domino-45.png"
   },
   {
     "maker": "Shengqiang Zhang",
@@ -414,6 +438,17 @@ var currentcameras = [
     "launched": 2023,
     "printfiles": "https://www.panomicron.com/holmium-v3",
     "image": "holmium-v3.png"
+  },
+  {
+    "maker": "Jacob Jaeggli",
+    "name": "Hybrid 67",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 6x7 pinhole camera for Calumet C2 roll film holder",
+    "launched": 2018,
+    "printfiles": "https://www.thingiverse.com/thing:3179917",
+    "image": "hybrid-67.png"
   },
   {
     "maker": "Denis Aminev",
@@ -881,12 +916,34 @@ var currentcameras = [
     "image": "pinhole-135-camera-mini.png"
   },
   {
+    "maker": "Mazeadeh",
+    "name": "Pinhole 4x5",
+    "format": "4x5",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 4x5\" pinhole camera with a built-in shutter",
+    "launched": 2021,
+    "printfiles": "https://cults3d.com/en/3d-model/gadget/pinhole-camera",
+    "image": "pinhole-4x5.png"
+  },
+  {
+    "maker": "Mazeadeh",
+    "name": "Pinhole 6x7",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a medium format pinhole camera with a built-in shutter for Mamiya RB67 backs",
+    "launched": 2021,
+    "printfiles": "https://cults3d.com/en/3d-model/gadget/pinhole-camera-6x7",
+    "image": "pinhole-6x7.png"
+  },
+  {
     "maker": "Javier Fernandez",
     "name": "Pinhole Camera",
     "format": "custom",
     "type": "pinhole",
     "price": 0,
-    "description": "a pinhole camera using 89x89mm photographic paper",
+    "description": "a pinhole camera using 89x89mm photographic paper with a built-in shutter",
     "launched": 2020,
     "printfiles": "https://www.myminifactory.com/object/3d-print-pinhole-camera-115726",
     "image": "pinhole-camera.png"
@@ -915,6 +972,17 @@ var currentcameras = [
     "image": "pinhole-camera-5x7.png"
   },
   {
+    "maker": "Frank Siffermann",
+    "name": "Pinhole Camera 6.5x9cm",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using 65x90mm photographic paper with a built-in shutter",
+    "launched": 2026,
+    "printfiles": "https://www.thingiverse.com/thing:7324905",
+    "image": "pinhole-camera-65x9.png"
+  },
+  {
     "maker": "Marek Sokal",
     "name": "Pinhole Camera with Frame Masks",
     "format": "135",
@@ -924,6 +992,17 @@ var currentcameras = [
     "launched": 2026,
     "printfiles": "https://makerworld.com/en/models/2580485-pinhole-camera-with-frame-masks",
     "image": "pinhole-camera-with-frame-masks.png"
+  },
+  {
+    "maker": "Todd Schlemmer",
+    "name": "Pinstax",
+    "format": "mini",
+    "type": "pinhole",
+    "price": 0,
+    "description": "an Instax mini pinhole camera with a built-in shutter",
+    "launched": 2014,
+    "printfiles": "https://www.thingiverse.com/thing:433249",
+    "image": "pinstax.png"
   },
   {
     "maker": "Mark Hiltz",
@@ -947,6 +1026,17 @@ var currentcameras = [
     "launched": 2026,
     "printfiles": "https://www.thingiverse.com/thing:7305319",
     "image": "planetary-pinhole.png"
+  },
+  {
+    "maker": "James Hildebrandt",
+    "name": "PLAyPin",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a medium format pinhole camera with a 50mm focal length and a built-in shutter",
+    "launched": 2015,
+    "printfiles": "https://www.thingiverse.com/thing:796846",
+    "image": "playpin.png"
   },
   {
     "maker": "Albert Cornelissen",
@@ -1284,6 +1374,17 @@ var currentcameras = [
     "launched": 2016,
     "printfiles": "https://www.thingiverse.com/thing:1253008",
     "image": "terrapin-prime.png"
+  },
+  {
+    "maker": "Todd Schlemmer",
+    "name": "terraPinstax",
+    "format": "wide",
+    "type": "pinhole",
+    "price": 0,
+    "description": "an Instax wide pinhole camera with a built-in shutter",
+    "launched": 2017,
+    "printfiles": "https://www.thingiverse.com/thing:2419069",
+    "image": "terrapinstax.png"
   },
   {
     "maker": "Carlos Paboudjian",
