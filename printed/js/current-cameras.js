@@ -1165,6 +1165,17 @@ var currentcameras = [
     "image": "slo.png"
   },
   {
+    "maker": "Gabriel Ribas",
+    "name": "Smile 35mm",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a built-in shutter",
+    "launched": 2023,
+    "printfiles": "https://www.thingiverse.com/thing:6344437",
+    "image": "smile-35mm.png"
+  },
+  {
     "maker": "Mitch Swan",
     "name": "Solargraph Camera",
     "format": "custom",
@@ -1174,6 +1185,28 @@ var currentcameras = [
     "launched": 2022,
     "printfiles": "https://www.printables.com/model/230874-solargraph-camera",
     "image": "solargraph-camera.png"
+  },
+  {
+    "maker": "Jairo Vale",
+    "name": "Solargraphy Pinhole Camera V1",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using 240x180mm photographic paper, designed for solargraphy",
+    "launched": 2026,
+    "printfiles": "https://www.thingiverse.com/thing:7316438",
+    "image": "solargraphy-pinhole-camera-v1.png"
+  },
+  {
+    "maker": "Jairo Vale",
+    "name": "Solargraphy Pinhole Camera V2",
+    "format": "custom",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a pinhole camera using 120x180mm photographic paper, designed for solargraphy",
+    "launched": 2026,
+    "printfiles": "https://www.thingiverse.com/thing:7316431",
+    "image": "solargraphy-pinhole-camera-v2.png"
   },
   {
     "maker": "Maciek",
@@ -1527,5 +1560,27 @@ var currentcameras = [
     "launched": 2022,
     "printfiles": "https://www.thingiverse.com/thing:5348927",
     "image": "willtravel-8x10.png"
+  },
+  {
+    "maker": "Petr Mikhalitsyn",
+    "name": "Zenza Pinholica",
+    "format": "120",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a medium format pinhole camera with a built-in shutter for Bronica SQ backs",
+    "launched": 2025,
+    "printfiles": "https://www.thingiverse.com/thing:6935293",
+    "image": "zenza-pinholica.png"
+  },
+  {
+    "maker": "Markus Klingler",
+    "name": "Zoom Pinhole Camera",
+    "format": "135",
+    "type": "pinhole",
+    "price": 0,
+    "description": "a 35mm pinhole camera with a variable 40-80mm focal length and a built-in shutter",
+    "launched": 2021,
+    "printfiles": "https://www.thingiverse.com/thing:5159577",
+    "image": "zoom-pinhole-camera.png"
   }
 ]
