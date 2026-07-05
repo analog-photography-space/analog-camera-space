@@ -472,7 +472,7 @@ var currentcameras = [
     "website": "https://timetowaste.ru/en_infidex",
     "video": "https://www.youtube.com/watch?v=zv_Ho8Yjjiw",
     "launched": 2024,
-    "printfiles": "https://drive.google.com/file/d/1Av8KrTQc2T-bhxpaDzldreE2Yz74lLlQ",
+    "printfiles": "https://drive.google.com/file/d/1NOrBhiPlukBRlMHWCl51JxOVZ4VHzjPF",
     "image": "infidex-176.png"
   },
   {
@@ -541,7 +541,6 @@ var currentcameras = [
     "type": "mamiya press lens",
     "price": 0,
     "description": "a 6x9 camera for Mamiya Press lenses and Mamiya Press roll film backs",
-    "website": "https://sprkplg.com/product-tag/l69/",
     "launched": 2020,
     "printfiles": "https://www.printables.com/model/48122-ligero69-camera-body-for-mamiya-press-lens-m-mount",
     "image": "ligero69.png"
@@ -553,7 +552,6 @@ var currentcameras = [
     "type": "mamiya press lens",
     "price": 0,
     "description": "an Instax wide camera for Mamiya Press lenses or Polaroid 600SE lenses and Lomograflok film backs",
-    "website": "https://sprkplg.com/product-tag/llg/",
     "launched": 2022,
     "printfiles": "https://www.printables.com/model/183913-ligerolg-gansolg-camera-body-for-lomograflok-mamiy",
     "image": "ligerolg.png"
@@ -1250,7 +1248,6 @@ var currentcameras = [
     "type": "pinhole",
     "price": 0,
     "description": "a parametric medium format pinhole camera with a built-in shutter",
-    "website": "https://quentino.io/posts/stenope-parametrique",
     "launched": 2016,
     "printfiles": "https://www.thingiverse.com/thing:1769993",
     "image": "stenope-parametrique.png"
